@@ -1,0 +1,19 @@
+{
+  "name": "zero-to-tech-demos",
+  "version": "1.0.0",
+  "description": "零到全栈课程的配套 demo 代码。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.2.1"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
+  }
+}
