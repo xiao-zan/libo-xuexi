@@ -1,1 +1,4 @@
-
+# 匹配所有目录下的 node_modules
+**/node_modules
+# 匹配所有目录下的 dist
+**/dist
