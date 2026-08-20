@@ -4,7 +4,7 @@
 export default function Nav({ current, onNavigate }) {
   const items = [
     { key: "home",    label: "个人主页" },
-    { key: "textlab", label: "文字实验室" },
+    { key: "textlab", label: "鉴文阁" },
   ];
 
   return (
