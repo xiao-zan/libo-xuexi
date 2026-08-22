@@ -1,4 +1,19 @@
-# 匹配所有目录下的 node_modules
-**/node_modules
-# 匹配所有目录下的 dist
-**/dist
+# dependencies
+**/node_modules/
+
+# next.js
+**/.next/
+**/out/
+
+# production
+**/build/
+**/dist/
+
+# editor
+**/.vscode/*
+!.vscode/extensions.json
+
+# misc
+**/.DS_Store
+**/*.log
+**/.env*
