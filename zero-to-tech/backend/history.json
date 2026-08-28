@@ -1,0 +1,23 @@
+[
+  {
+    "text": "你的胆子真是肥嘟嘟的",
+    "score": 0.23,
+    "label": "偏消极",
+    "pinyin": "nǐ de dǎn zi zhēn shì féi dū dū de",
+    "created_at": "2026-08-28T15:03:22+00:00"
+  },
+  {
+    "text": "我是你的爸爸",
+    "score": 0.91,
+    "label": "偏积极",
+    "pinyin": "wǒ shì nǐ de bà bà",
+    "created_at": "2026-08-28T15:03:30+00:00"
+  },
+  {
+    "text": "你个18码的",
+    "score": 0.48,
+    "label": "中性",
+    "pinyin": "nǐ gè 18 mǎ de",
+    "created_at": "2026-08-28T15:03:41+00:00"
+  }
+]
